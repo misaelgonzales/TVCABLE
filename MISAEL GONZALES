@@ -11,12 +11,6 @@ http://45.160.15.130:2909/play/033
 http://177.93.52.98:45001/play/a079
 #EXTINF:0,Canal 13 HD
 http://177.93.52.98:45001/play/a07s
-#EXTINF:0,Canal Caracol
-http://177.93.52.98:45001/play/a0c0
-#EXTINF:0,Canal Institucional HD
-http://177.93.52.98:45001/play/a05q
-#EXTINF:0,Canal RCN
-http://177.93.52.98:45001/play/a0c1
 #EXTINF:0,CanalInfantilHD
 http://177.93.52.98:45001/play/a0at
 #EXTINF:0,Caracol HD
@@ -155,18 +149,8 @@ http://177.93.52.98:45001/play/a05f
 http://177.93.52.98:45001/play/a06e
 #EXTINF:0,STAR TVE HD
 http://177.93.52.98:45001/play/a075
-#EXTINF:0,Stingray Concerts HD
-http://177.93.52.98:45001/play/a07k
 #EXTINF:0,Studio Universal HD
 http://177.93.52.98:45001/play/a074
-#EXTINF:0,Sun Channel HD
-http://177.93.52.98:45001/play/a06a
-#EXTINF:0,TCM
-http://177.93.52.98:45001/play/a0cn
-#EXTINF:0,Teen Nick HD
-http://177.93.52.98:45001/play/a07u
-#EXTINF:0,Teleamiga
-http://177.93.52.98:45001/play/a0cr
 #EXTINF:0,Telehit HD
 http://177.93.52.98:45001/play/a07f
 #EXTINF:0,Telenovelas
@@ -181,20 +165,12 @@ http://177.93.52.98:45001/play/a06m
 http://177.93.52.98:45001/play/a05g
 #EXTINF:0,Tooncast
 http://177.93.52.98:45001/play/a0cm
-#EXTINF:0,Travelxp HD
-http://177.93.52.98:45001/play/a069
-#EXTINF:0,TRUTV HD
-http://177.93.52.98:45001/play/a066
-#EXTINF:0,TV Agro
-http://177.93.52.98:45001/play/a0cs
 #EXTINF:0,TV+ HD
 http://177.93.52.98:45001/play/a06t
 #EXTINF:0,TVN HD
 http://177.93.52.98:45001/play/a05s
 #EXTINF:0,TyC Sports HD
 http://177.93.52.98:45001/play/a07o
-#EXTINF:0,UCL HD
-http://177.93.52.98:45001/play/a06j
 #EXTINF:0,Warner Channel HD
 http://181.189.243.254:8000/play/a0tk/index.m3u8
 
