@@ -3,6 +3,8 @@
 http://177.93.52.98:45001/play/a07m
 #EXTINF:0, 01 - AMERICA TV HD OPC2
 https://v3.playerlatino.live/stream/m3u8/780
+#EXTINF:0, 01 - ATV HD
+https://atvperu.akamaized.net/hls/live/2100630/atv/master_480.m3u8
 #EXTINF:0, 02 - Latina HD
 http://177.93.52.98:45001/play/a07n
 #EXTINF:0, 02 - PANAMERICANA HD
