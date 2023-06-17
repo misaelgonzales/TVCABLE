@@ -1,119 +1,119 @@
 #EXTM3U
-#EXTINF:0,001 - AMERICA TV HD
+#EXTINF:0, 01 - AMERICA TV HD
 http://177.93.52.98:45001/play/a07m
-#EXTINF:0,002 - Latina HD
+#EXTINF:0, 02 - Latina HD
 http://177.93.52.98:45001/play/a07n
-#EXTINF:0,003 - HISTORY HD
+#EXTINF:0, 03 - HISTORY HD
 http://181.189.243.254:8000/play/a0px/index.m3u8
-#EXTINF:0,004 - HISTORY 2 HD
+#EXTINF:0, 04 - HISTORY 2 HD
 http://45.160.15.130:2909/play/033
-#EXTINF:0,Animal Planet HD
+#EXTINF:0, Animal Planet HD
 http://177.93.52.98:45001/play/a079
-#EXTINF:0,Canal 13 HD
+#EXTINF:0, Canal 13 HD
 http://177.93.52.98:45001/play/a07s
-#EXTINF:0,CanalInfantilHD
+#EXTINF:0, CanalInfantilHD
 http://177.93.52.98:45001/play/a0at
-#EXTINF:0,Caracol HD
+#EXTINF:0, Caracol HD
 http://177.93.52.98:45001/play/a081
-#EXTINF:0,Cartoon Network HD
+#EXTINF:0, Cartoon Network HD
 http://177.93.52.98:45001/play/a072
-#EXTINF:0,CATV|GOLDEN-HD
+#EXTINF:0, CATV|GOLDEN-HD
 http://177.93.52.98:45001/play/a0d1
-#EXTINF:0,CATV|LAS-ESTRELLAS
+#EXTINF:0, CATV|LAS-ESTRELLAS
 http://177.93.52.98:45001/play/a0cz
-#EXTINF:0,CATV|PASIONES
+#EXTINF:0, CATV|PASIONES
 http://177.93.52.98:45001/play/a0d0
-#EXTINF:0,CHV HD
+#EXTINF:0, CHV HD
 http://177.93.52.98:45001/play/a05t
-#EXTINF:0,Cinecanal HD
+#EXTINF:0, Cinecanal HD
 http://177.93.52.98:45001/play/a06x
-#EXTINF:0,CineFamiliarHD 
+#EXTINF:0, CineFamiliarHD 
 http://177.93.52.98:45001/play/a0av
-#EXTINF:0,CineHispanoHD
+#EXTINF:0, CineHispanoHD
 http://177.93.52.98:45001/play/a0aw
-#EXTINF:0,Cinemax HD
+#EXTINF:0, Cinemax HD
 http://177.93.52.98:45001/play/a063
-#EXTINF:0,CinePremiumHD
+#EXTINF:0, CinePremiumHD
 http://177.93.52.98:45001/play/a0ax
-#EXTINF:0,City TV
+#EXTINF:0, City TV
 http://177.93.52.98:45001/play/a0c9
-#EXTINF:0,Clover HD
+#EXTINF:0, Clover HD
 http://177.93.52.98:45001/play/a05k
-#EXTINF:0,CNN Chile HD
+#EXTINF:0, CNN Chile HD
 http://177.93.52.98:45001/play/a059
-#EXTINF:0,Comedy Central HD
+#EXTINF:0, Comedy Central HD
 http://177.93.52.98:45001/play/a064
-#EXTINF:0,Cristovision
+#EXTINF:0, Cristovision
 http://177.93.52.98:45001/play/a0cq
-#EXTINF:0,DePelicula
+#EXTINF:0, DePelicula
 http://177.93.52.98:45001/play/a0ct
-#EXTINF:0,DHE HD
+#EXTINF:0, DHE HD
 http://177.93.52.98:45001/play/a083
-#EXTINF:0,Discovery H&H HD
+#EXTINF:0, Discovery H&H HD
 http://177.93.52.98:45001/play/a06c
-#EXTINF:0,Discovery HD
+#EXTINF:0, Discovery HD
 http://177.93.52.98:45001/play/a084
-#EXTINF:0,Discovery Kids HD
+#EXTINF:0, Discovery Kids HD
 http://177.93.52.98:45001/play/a06b
-#EXTINF:0,Discovery Science
+#EXTINF:0, Discovery Science
 http://177.93.52.98:45001/play/a0cl
-#EXTINF:0,Discovery Theater HD
+#EXTINF:0, Discovery Theater HD
 http://177.93.52.98:45001/play/a06d
-#EXTINF:0,Discovery World HD
+#EXTINF:0, Discovery World HD
 http://177.93.52.98:45001/play/a06w
-#EXTINF:0,Disney HD
+#EXTINF:0, Disney HD
 http://177.93.52.98:45001/play/a05v
-#EXTINF:0,Disney Junior
+#EXTINF:0, Disney Junior
 http://177.93.52.98:45001/play/a0cx
-#EXTINF:0,E! HD
+#EXTINF:0, E! HD
 http://177.93.52.98:45001/play/a07i
-#EXTINF:0,El Gourmet HD
+#EXTINF:0, El Gourmet HD
 http://177.93.52.98:45001/play/a067
-#EXTINF:0,ElCanaldelFutbol HD
+#EXTINF:0, ElCanaldelFutbol HD
 http://177.93.52.98:45001/play/a07q
-#EXTINF:0,ESPN 2 HD
+#EXTINF:0, ESPN 2 HD
 http://177.93.52.98:45001/play/a05h
-#EXTINF:0,ESPN 3 HD
+#EXTINF:0, ESPN 3 HD
 http://177.93.52.98:45001/play/a05y
-#EXTINF:0,ESPN 4 HD
+#EXTINF:0, ESPN 4 HD
 http://177.93.52.98:45001/play/a06h
-#EXTINF:0,ESPN EXTRA HD
+#EXTINF:0, ESPN EXTRA HD
 http://177.93.52.98:45001/play/a06z
-#EXTINF:0,ESPN HD
+#EXTINF:0, ESPN HD
 http://177.93.52.98:45001/play/a07g
-#EXTINF:0,Food Network HD
+#EXTINF:0, Food Network HD
 http://177.93.52.98:45001/play/a07l
-#EXTINF:0,FOX Sports 2 HD
+#EXTINF:0, FOX Sports 2 HD
 http://177.93.52.98:45001/play/a06i
-#EXTINF:0,Fox Sports 3 HD
+#EXTINF:0, Fox Sports 3 HD
 http://177.93.52.98:45001/play/a05z
-#EXTINF:0,FX HD
+#EXTINF:0, FX HD
 http://177.93.52.98:45001/play/a06n
-#EXTINF:0,Glitz
+#EXTINF:0, Glitz
 http://177.93.52.98:45001/play/a0co
-#EXTINF:0,Golden HD
+#EXTINF:0, Golden HD
 http://177.93.52.98:45001/play/a07e
-#EXTINF:0,HOLA TV HD
+#EXTINF:0, HOLA TV HD
 http://177.93.52.98:45001/play/a05w
-#EXTINF:0,ID HD
+#EXTINF:0, ID HD
 http://177.93.52.98:45001/play/a065
-#EXTINF:0,Kanal D Drama HD
+#EXTINF:0, Kanal D Drama HD
 http://177.93.52.98:45001/play/a071
-#EXTINF:0,LA KALLE
+#EXTINF:0, LA KALLE
 http://177.93.52.98:45001/play/a0cp
-#EXTINF:0,La Red HD
+#EXTINF:0, La Red HD
 http://177.93.52.98:45001/play/a05o
-#EXTINF:0,Las Estrellas HD
+#EXTINF:0, Las Estrellas HD
 http://177.93.52.98:45001/play/a082
 #EXTINF:0,Lolly Kids HD
 http://177.93.52.98:45001/play/a07t
-#EXTINF:0,Love Nature HD
+#EXTINF:0, Love Nature HD
 http://177.93.52.98:45001/play/a07v
-#EXTINF:0,MEGA HD
+#EXTINF:0, MEGA HD
 http://177.93.52.98:45001/play/a06u
-#EXTINF:0,MiMusicaHD-Romantica
+#EXTINF:0 MiMusicaHD-Romantica
 http://177.93.52.98:45001/play/a0b3
-#EXTINF:0,MiMusicaHDHits
+#EXTINF:0 MiMusicaHDHits
 http://177.93.52.98:45001/play/a0ay
 #EXTINF:0 MiMusicaHDPopular
 http://177.93.52.98:45001/play/a0az
@@ -171,9 +171,4 @@ http://177.93.52.98:45001/play/a06t
 http://177.93.52.98:45001/play/a05s
 #EXTINF:0, TyC Sports HD
 http://177.93.52.98:45001/play/a07o
-#EXTINF:0, Warner Channel HD"
-http://181.189.243.254:8000/play/a0tk/index.m3u8
-#EXTINF:1, SHAZAM - LA FURIA DE LOS DIOSES (2023)"
-http://gafitvapp.win:8080/movie/COMPUCIBER1002/@Compuciber002@/276916.mp4
-#EXTINF:1,THE FLASH(2023)
-https://hfs270.serversicuro.cc/dnzpfn5q37g4a3gyvd3x5ibqriaij7mf3ha7bifqafgidyeopn7syppv266a/Flash(Lat-CAM.[supervideo.tv].mp4
+#EXTINF:0, Warner Channel HD
