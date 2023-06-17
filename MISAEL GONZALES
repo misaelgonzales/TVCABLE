@@ -1,11 +1,19 @@
 #EXTM3U
 #EXTINF:0, 01 - AMERICA TV HD
 http://177.93.52.98:45001/play/a07m
+#EXTINF:0, 01 - AMERICA TV HD OPC2
+https://v3.playerlatino.live/stream/m3u8/780
 #EXTINF:0, 02 - Latina HD
 http://177.93.52.98:45001/play/a07n
-#EXTINF:0, 03 - HISTORY HD
+#EXTINF:0, 02 - PANAMERICANA HD
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=897276147&_cdn_timestamp=1687317682&_cdn_token=465c831d75276d2167987236a33c21658861c05a
+#EXTINF:0, 02 - GOL PERU HD
+https://v3.playerlatino.live/stream/m3u8/686
+#EXTINF:0, 02 - MOVISTAR DEPORTES
+https://v3.playerlatino.live/stream/m3u8/366
+}#EXTINF:0, - HISTORY HD
 http://181.189.243.254:8000/play/a0px/index.m3u8
-#EXTINF:0, 04 - HISTORY 2 HD
+#EXTINF:0, - HISTORY 2 HD
 http://45.160.15.130:2909/play/033
 #EXTINF:0, Animal Planet HD
 http://177.93.52.98:45001/play/a079
