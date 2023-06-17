@@ -115,65 +115,65 @@ http://177.93.52.98:45001/play/a06u
 http://177.93.52.98:45001/play/a0b3
 #EXTINF:0,MiMusicaHDHits
 http://177.93.52.98:45001/play/a0ay
-#EXTINF:0,MiMusicaHDPopular
+#EXTINF:0 MiMusicaHDPopular
 http://177.93.52.98:45001/play/a0az
-#EXTINF:0,MiMusicaHDReggaeton
+#EXTINF:0, MiMusicaHDReggaeton
 http://177.93.52.98:45001/play/a0b0
-#EXTINF:0,MTV 00s
+#EXTINF:0, MTV 00s
 http://177.93.52.98:45001/play/a061
-#EXTINF:0,MTV HD
+#EXTINF:0, MTV HD
 http://177.93.52.98:45001/play/a080
-#EXTINF:0,MTV LIVE HD
+#EXTINF:0, MTV LIVE HD
 http://177.93.52.98:45001/play/a06g
-#EXTINF:0,Nat Geo HD
+#EXTINF:0, Nat Geo HD
 http://177.93.52.98:45001/play/a06v
-#EXTINF:0,Nick HD
+#EXTINF:0, Nick HD
 http://177.93.52.98:45001/play/a05n
-#EXTINF:0,Nick Music HD
+#EXTINF:0, Nick Music HD
 http://177.93.52.98:45001/play/a06k
-#EXTINF:0,NTV
+#EXTINF:0, NTV
 http://177.93.52.98:45001/play/a06s
-#EXTINF:0,Paramount HD
+#EXTINF:0, Paramount HD
 http://177.93.52.98:45001/play/a073
-#EXTINF:0,Pasiones HD
+#EXTINF:0, Pasiones HD
 http://177.93.52.98:45001/play/a05u
-#EXTINF:0,RCN HD
+#EXTINF:0, RCN HD
 http://177.93.52.98:45001/play/a06p
-#EXTINF:0,Seæal Colombia HD
+#EXTINF:0, Seæal Colombia HD
 http://177.93.52.98:45001/play/a07d
-#EXTINF:0,Sony HD
+#EXTINF:0, Sony HD
 http://181.189.243.254:8000/play/a0sk/index.m3u8
-#EXTINF:0,Space HD
+#EXTINF:0, Space HD
 http://177.93.52.98:45001/play/a05f
-#EXTINF:0,STAR CHANNEL HD
+#EXTINF:0, STAR CHANNEL HD
 http://177.93.52.98:45001/play/a06e
-#EXTINF:0,STAR TVE HD
+#EXTINF:0, STAR TVE HD
 http://177.93.52.98:45001/play/a075
-#EXTINF:0,Studio Universal HD
+#EXTINF:0, Studio Universal HD
 http://177.93.52.98:45001/play/a074
-#EXTINF:0,Telehit HD
+#EXTINF:0, Telehit HD
 http://177.93.52.98:45001/play/a07f
-#EXTINF:0,Telenovelas
+#EXTINF:0, Telenovelas
 http://177.93.52.98:45001/play/a0b1
-#EXTINF:0,TLC
+#EXTINF:0, TLC
 http://177.93.52.98:45001/play/a0ck
 #EXTINF:0,TNT HD
 http://177.93.52.98:45001/play/a05x
-#EXTINF:0,TNT Series HD
+#EXTINF:0, TNT Series HD
 http://177.93.52.98:45001/play/a06m
-#EXTINF:0,TNT SPORTS HD
+#EXTINF:0, TNT SPORTS HD
 http://177.93.52.98:45001/play/a05g
-#EXTINF:0,Tooncast
+#EXTINF:0, Tooncast
 http://177.93.52.98:45001/play/a0cm
-#EXTINF:0,TV+ HD
+#EXTINF:0, TV+ HD
 http://177.93.52.98:45001/play/a06t
-#EXTINF:0,TVN HD
+#EXTINF:0, TVN HD
 http://177.93.52.98:45001/play/a05s
-#EXTINF:0,TyC Sports HD
+#EXTINF:0, TyC Sports HD
 http://177.93.52.98:45001/play/a07o
-#EXTINF:0,"Warner Channel HD"
+#EXTINF:0, Warner Channel HD"
 http://181.189.243.254:8000/play/a0tk/index.m3u8
-#EXTINF:1,"SHAZAM - LA FURIA DE LOS DIOSES (2023)"
+#EXTINF:1, SHAZAM - LA FURIA DE LOS DIOSES (2023)"
 http://gafitvapp.win:8080/movie/COMPUCIBER1002/@Compuciber002@/276916.mp4
 #EXTINF:1,THE FLASH(2023)
 https://hfs270.serversicuro.cc/dnzpfn5q37g4a3gyvd3x5ibqriaij7mf3ha7bifqafgidyeopn7syppv266a/Flash(Lat-CAM.[supervideo.tv].mp4
