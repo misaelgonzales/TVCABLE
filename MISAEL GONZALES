@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:0,001-America TV HD
+EXTINF:0 tvg-id=»AMERICA TV» tvg-logo=»https://upload.wikimedia.org/wikipedia/commons/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg»,AMERICA TV
+https://veranda-butacatv-1-es.samsung.wurl.tv/2000.m3u8
 https://upload.wikimedia.org/wikipedia/commons/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svgpath-prefix=eshttp://177.93.52.98:45001/play/a07m
 #EXTINF:0,002 - Latina HD
 http://177.93.52.98:45001/play/a07n
