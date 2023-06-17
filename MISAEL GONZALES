@@ -176,14 +176,13 @@ http://181.189.243.254:8000/play/a0tk/index.m3u8
 
 ------PELICULAS-------------
 
-#EXTINF:0,SHAZAM - LA FURIA DE LOS DIOSES (2023)
-#EXTINF:-1 tvg-id="" tvg-name="SHAZAM - LA FURIA DE LOS DIOSES (2023)" tvg-logo="https://pics.filmaffinity.com/aShazam_La_furia_de_los_dioses-942384944-large.jpg",SHAZAM - LA FURIA DE LOS DIOSES (2023).
-http://gafitvapp.win:8080/movie/COMPUCIBER1002/@Compuciber002@/276916.mp4
-#EXTINF:0,SHAZAM - LA FURIA DE LOS DIOSES (2023)
+#EXTINF:1,SHAZAM - LA FURIA DE LOS DIOSES (2023)
 #EXTINF:-1 tvg-id="" tvg-name="SHAZAM - LA FURIA DE LOS DIOSES (2023)" tvg-logo="https://pics.filmaffinity.com/aShazam_La_furia_de_los_dioses-942384944-large.jpg",SHAZAM - LA FURIA DE LOS DIOSES (2023).
 http://gafitvapp.win:8080/movie/COMPUCIBER1002/@Compuciber002@/276916.mp4
 
-#EXTINF:0,THE FLASH(2023)
+
+#EXTINF:1,THE FLASH(2023)
+#EXTINF:-1 tvg-id="" tvg-name="THE FLASH(2023)" tvg-logo="https://pics.filmaffinity.com/Flash-698849219-large.jpg",THE FLASH(2023).
 https://hfs270.serversicuro.cc/dnzpfn5q37g4a3gyvd3x5ibqriaij7mf3ha7bifqafgidyeopn7syppv266a/Flash(Lat-CAM.[supervideo.tv].mp4
 
 
