@@ -13,6 +13,8 @@ https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=897276147&_cdn_timestamp=1687317682&_cdn_token=465c831d75276d2167987236a33c21658861c05a
 #EXTINF:0, WILLAX HD PAG
 https://stream-07.dc3.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmjohnCXSOORmy7plRfEEObfZNi7BdWb-eE5Y-XajUJM9)/dm/3/x7x4dgx/s/live-1.m3u8
+#EXTINF:0, EXITOSA HD PAG
+https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
 #EXTINF:0, GOL PERU HD
 https://v3.playerlatino.live/stream/m3u8/686
 #EXTINF:0, MOVISTAR DEPORTES
