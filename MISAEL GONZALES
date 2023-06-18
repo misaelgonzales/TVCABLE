@@ -19,6 +19,8 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-me
 https://stream-07.dc3.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmjohnCXSOORmy7plRfEEObfZNi7BdWb-eE5Y-XajUJM9)/dm/3/x7x4dgx/s/live-1.m3u8
 #EXTINF:0, EXITOSA HD PAG
 https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
+#EXTINF:0, TV PERU HD PAG
+https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_1.m3u8
 #EXTINF:0, GOL PERU HD
 https://v3.playerlatino.live/stream/m3u8/686
 #EXTINF:0, MOVISTAR DEPORTES
