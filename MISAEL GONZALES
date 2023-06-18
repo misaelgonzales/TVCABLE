@@ -19,7 +19,7 @@ https://v3.playerlatino.live/stream/m3u8/686
 https://v3.playerlatino.live/stream/m3u8/366
 #EXTINF:0, KARIBEÑA
 https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
-}#EXTINF:0, HISTORY HD
+#EXTINF:0, HISTORY HD
 http://181.189.243.254:8000/play/a0px/index.m3u8
 #EXTINF:0, HISTORY 2 HD
 http://45.160.15.130:2909/play/033
