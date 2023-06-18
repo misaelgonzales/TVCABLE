@@ -33,6 +33,8 @@ http://177.93.52.98:45001/play/a081
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 #EXTINF:0, Cartoon Network HD
 http://177.93.52.98:45001/play/a072
+#EXTINF:0, Cartoon Network LA HD pag
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 #EXTINF:0, CATV|GOLDEN-HD
 http://177.93.52.98:45001/play/a0d1
 #EXTINF:0, CATV|LAS-ESTRELLAS
