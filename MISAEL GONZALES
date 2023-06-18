@@ -1,23 +1,25 @@
 #EXTM3U
-#EXTINF:0, 01 - AMERICA TV HD
+#EXTINF:0, AMERICA TV HD
 http://177.93.52.98:45001/play/a07m
-#EXTINF:0, 01 - AMERICA TV HD OPC2
+#EXTINF:0, AMERICA TV HD OPC2
 https://v3.playerlatino.live/stream/m3u8/780
-#EXTINF:0, 01 - ATV HD
+#EXTINF:0, ATV HD
 https://atvperu.akamaized.net/hls/live/2100630/atv/master_480.m3u8
-#EXTINF:0, 02 - Latina HD
+#EXTINF:0, Latina HD
 http://177.93.52.98:45001/play/a07n
-#EXTINF:0, 02 - Latina HD OPC2 PAG
+#EXTINF:0, Latina HD OPC2 PAG
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
-#EXTINF:0, 02 - PANAMERICANA HD
+#EXTINF:0, PANAMERICANA HD
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=897276147&_cdn_timestamp=1687317682&_cdn_token=465c831d75276d2167987236a33c21658861c05a
-#EXTINF:0, 02 - GOL PERU HD
+#EXTINF:0, GOL PERU HD
 https://v3.playerlatino.live/stream/m3u8/686
-#EXTINF:0, 02 - MOVISTAR DEPORTES
+#EXTINF:0, MOVISTAR DEPORTES
 https://v3.playerlatino.live/stream/m3u8/366
-}#EXTINF:0, - HISTORY HD
+#EXTINF:0, KARIBEÑA
+https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
+}#EXTINF:0, HISTORY HD
 http://181.189.243.254:8000/play/a0px/index.m3u8
-#EXTINF:0, - HISTORY 2 HD
+#EXTINF:0, HISTORY 2 HD
 http://45.160.15.130:2909/play/033
 #EXTINF:0, Animal Planet HD
 http://177.93.52.98:45001/play/a079
