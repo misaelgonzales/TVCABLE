@@ -29,6 +29,8 @@ https://v3.playerlatino.live/stream/m3u8/366
 https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
 #EXTINF:0, HISTORY HD
 http://181.189.243.254:8000/play/a0px/index.m3u8
+#EXTINF:0, HISTORY 2 HD - PAG
+https://v3.playerlatino.live/stream/m3u8/61
 #EXTINF:0, HISTORY 2 HD
 http://45.160.15.130:2909/play/033
 #EXTINF:0, Animal Planet HD
@@ -47,6 +49,10 @@ http://177.93.52.98:45001/play/a072
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 #EXTINF:0, CATV|GOLDEN-HD
 http://177.93.52.98:45001/play/a0d1
+#EXTINF:0, CATV|GOLDEN-HD - PAG
+https://v3.playerlatino.live/stream/m3u8/57
+#EXTINF:0, CATV|GOLDEN PREMIER -HD - PAG
+https://v3.playerlatino.live/stream/m3u8/60
 #EXTINF:0, CATV|LAS-ESTRELLAS
 http://177.93.52.98:45001/play/a0cz
 #EXTINF:0, CATV|PASIONES
@@ -107,6 +113,8 @@ http://177.93.52.98:45001/play/a05h
 http://177.93.52.98:45001/play/a05y
 #EXTINF:0, ESPN 4 HD
 http://177.93.52.98:45001/play/a06h
+#EXTINF:0, ESPN 4 HD - PAG
+https://v3.playerlatino.live/stream/m3u8/52
 #EXTINF:0, ESPN EXTRA HD
 http://177.93.52.98:45001/play/a06z
 #EXTINF:0, ESPN HD
@@ -117,6 +125,8 @@ http://177.93.52.98:45001/play/a07l
 http://177.93.52.98:45001/play/a06i
 #EXTINF:0, Fox Sports 3 HD
 http://177.93.52.98:45001/play/a05z
+#EXTINF:0, Fox Sports 3 HD - PAG
+https://v3.playerlatino.live/stream/m3u8/54
 #EXTINF:0, FX HD
 http://177.93.52.98:45001/play/a06n
 #EXTINF:0, Glitz
