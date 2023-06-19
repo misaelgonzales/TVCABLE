@@ -91,6 +91,8 @@ http://177.93.52.98:45001/play/a083
 http://177.93.52.98:45001/play/a06c
 #EXTINF:0, Discovery HD
 http://177.93.52.98:45001/play/a084
+#EXTINF:0, Discovery HD - PAG
+https://v3.playerlatino.live/stream/m3u8/639
 #EXTINF:0, Discovery Kids HD
 http://177.93.52.98:45001/play/a06b
 #EXTINF:0, Discovery Kids HD - PAG
