@@ -83,6 +83,8 @@ http://177.93.52.98:45001/play/a06c
 http://177.93.52.98:45001/play/a084
 #EXTINF:0, Discovery Kids HD
 http://177.93.52.98:45001/play/a06b
+#EXTINF:0, Discovery Kids HD - PAG
+https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
 #EXTINF:0, Discovery Science
 http://177.93.52.98:45001/play/a0cl
 #EXTINF:0, Discovery Theater HD
