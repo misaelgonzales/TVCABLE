@@ -264,6 +264,8 @@ http://181.189.243.254:8000/play/a0tk/index.m3u8
 https://live.telelatinohd.com:8080/MTgxLjY2LjE1MS43NA==/341_1260.ts
 #EXTINF:0, HBO 1 - misa
 https://v3.playerlatino.live/stream/m3u8/62
+#EXTINF:0, HBO 2 - misa
+https://v3.playerlatino.live/stream/m3u8/300
 #EXTINF:0, TOP LATINO - misa
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/chunklist_w2021867787.m3u8
 
