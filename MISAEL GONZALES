@@ -171,8 +171,12 @@ http://177.93.52.98:45001/play/a080
 http://177.93.52.98:45001/play/a06g
 #EXTINF:0, Nat Geo HD
 http://177.93.52.98:45001/play/a06v
+#EXTINF:0, Nat Geo mundo HD - misa
+https://v3.playerlatino.live/stream/m3u8/77
 #EXTINF:0, Nick HD
 http://177.93.52.98:45001/play/a05n
+#EXTINF:0, Nick HD - misa
+https://v3.playerlatino.live/stream/m3u8/78
 #EXTINF:0, Nick Music HD
 http://177.93.52.98:45001/play/a06k
 #EXTINF:0, NTV
@@ -189,7 +193,8 @@ http://177.93.52.98:45001/play/a07d
 http://181.189.243.254:8000/play/a0sk/index.m3u8
 #EXTINF:0, Space HD
 http://177.93.52.98:45001/play/a05f
-#EXTINF:0, Space HD - PAG
+#EXTINF:0, Space HD - misa
+https://v3.playerlatino.live/stream/m3u8/83
 #EXTINF:0, STAR CHANNEL HD
 http://177.93.52.98:45001/play/a06e
 #EXTINF:0, STAR TVE HD
