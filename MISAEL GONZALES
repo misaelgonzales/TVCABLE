@@ -209,6 +209,8 @@ http://177.93.52.98:45001/play/a0b1
 https://v3.playerlatino.live/stream/m3u8/08
 #EXTINF:0, TLC
 http://177.93.52.98:45001/play/a0ck
+#EXTINF:0,TNT HD - PAG 2
+https://v3.playerlatino.live/stream/m3u8/650
 #EXTINF:0,TNT HD
 http://177.93.52.98:45001/play/a05x
 #EXTINF:0,TNT HD PAG
