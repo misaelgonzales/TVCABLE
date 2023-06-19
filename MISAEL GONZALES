@@ -131,6 +131,8 @@ http://177.93.52.98:45001/play/a06i
 http://177.93.52.98:45001/play/a05z
 #EXTINF:0, Fox Sports 3 HD - misa
 https://v3.playerlatino.live/stream/m3u8/54
+#EXTINF:0, STAR+ ESPN HD
+https://v3.playerlatino.live/stream/m3u8/156
 #EXTINF:0, FX HD
 http://177.93.52.98:45001/play/a06n
 #EXTINF:0, Glitz
