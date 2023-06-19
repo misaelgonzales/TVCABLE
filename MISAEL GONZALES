@@ -55,6 +55,8 @@ https://v3.playerlatino.live/stream/m3u8/60
 http://177.93.52.98:45001/play/a0cz
 #EXTINF:0, CATV|PASIONES
 http://177.93.52.98:45001/play/a0d0
+#EXTINF:0, AMC HD - MISA
+https://v3.playerlatino.live/stream/m3u8/149
 #EXTINF:0, CHV HD
 http://177.93.52.98:45001/play/a05t
 #EXTINF:0, Cinecanal HD
@@ -153,6 +155,8 @@ http://177.93.52.98:45001/play/a082
 http://177.93.52.98:45001/play/a07t
 #EXTINF:0, Love Nature HD
 http://177.93.52.98:45001/play/a07v
+#EXTINF:0, LIFETIME HD - MISA
+https://v3.playerlatino.live/stream/m3u8/152
 #EXTINF:0, MEGA HD
 http://177.93.52.98:45001/play/a06u
 #EXTINF:0 MiMusicaHD-Romantica
@@ -223,9 +227,9 @@ https://v3.playerlatino.live/stream/m3u8/08
 https://v3.playerlatino.live/stream/m3u8/87
 #EXTINF:0, TLC
 http://177.93.52.98:45001/play/a0ck
-#EXTINF:0,TNT HD - misa
+#EXTINF:0, TNT HD - misa
 https://v3.playerlatino.live/stream/m3u8/650
-#EXTINF:0,TNT HD
+#EXTINF:0, TNT HD
 http://177.93.52.98:45001/play/a05x
 #EXTINF:0, TNT Series HD
 http://177.93.52.98:45001/play/a06m
