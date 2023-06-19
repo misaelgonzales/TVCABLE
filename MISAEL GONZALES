@@ -251,6 +251,8 @@ http://177.93.52.98:45001/play/a05s
 http://177.93.52.98:45001/play/a07o
 #EXTINF:0, Unicable HD - misa
 https://v3.playerlatino.live/stream/m3u8/98
+#EXTINF:0, UNIVERSAL HD - misa
+https://v3.playerlatino.live/stream/m3u8/184
 #EXTINF:0, Warner Channel HD
 http://181.189.243.254:8000/play/a0tk/index.m3u8
 #EXTINF:0, Warner Channel 2
