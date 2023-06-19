@@ -61,9 +61,8 @@ http://177.93.52.98:45001/play/a0d0
 https://v3.playerlatino.live/stream/m3u8/149
 #EXTINF:0, AMC HD - MISA
 https://v3.playerlatino.live/stream/m3u8/183
-#EXTINF:0, CHV HD
-http://177.93.52.98:45001/play/a05t
-#EXTINF:0, Cinecanal HD
+#EXTINF:0, CHV HD - misa
+https://v3.playerlatino.live/stream/m3u8/198#EXTINF:0, Cinecanal HD
 http://177.93.52.98:45001/play/a06x
 #EXTINF:0, Cinecanal HD
 https://v3.playerlatino.live/stream/m3u8/18
