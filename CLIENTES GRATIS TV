@@ -76,12 +76,14 @@ https://v3.playerlatino.live/stream/m3u8/77
 https://v3.playerlatino.live/stream/m3u8/686
 #EXTINF:0, GOL TV SD
 https://v3.playerlatino.live/stream/m3u8/287
-#EXTINF:0, MOVISTAR DEPORTES
-https://v3.playerlatino.live/stream/m3u8/367
+#EXTINF:0, MOVISTAR DEPORTES 1 FHD
+https://v3.playerlatino.live/stream/m3u8/925
 #EXTINF:0, MOVISTAR DEPORTES
 https://v3.playerlatino.live/stream/m3u8/366
 #EXTINF:0, MOVISTAR LIGA FHD
 https://v3.playerlatino.live/stream/m3u8/367
+#EXTINF:0, MOVISTAR VAMOS DEPORTE
+https://v3.playerlatino.live/stream/m3u8/940
 #EXTINF:0, ESPN 2 HD
 http://177.93.52.98:45001/play/a05h
 #EXTINF:0, ESPN 3 HD
@@ -150,6 +152,12 @@ https://v3.playerlatino.live/stream/m3u8/654
 https://v3.playerlatino.live/stream/m3u8/732
 #EXTINF:0, HBO PLUS FHD
 https://v3.playerlatino.live/stream/m3u8/655
+#EXTINF:0, HBO FAMILY FHD
+https://v3.playerlatino.live/stream/m3u8/968
+#EXTINF:0, HBO EXTREME FHD
+https://v3.playerlatino.live/stream/m3u8/971
+#EXTINF:0, HBO POP FHD
+https://v3.playerlatino.live/stream/m3u8/977
 #EXTINF:0, E! FHD
 https://v3.playerlatino.live/stream/m3u8/483
 #EXTINF:0, Discovery World HD
