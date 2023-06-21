@@ -91,12 +91,13 @@ https://v3.playerlatino.live/stream/m3u8/37
 https://v3.playerlatino.live/stream/m3u8/65
 #EXTINF:0, FOX Sports 2 HD
 https://v3.playerlatino.live/stream/m3u8/410
-#EXTINF:0, Fox Sports 3 HD
-http://177.93.52.98:45001/play/a05z
-#EXTINF:0, Fox Sports 3 HD - misa
-https://v3.playerlatino.live/stream/m3u8/54
+#EXTINF:0, Fox Sports 3 FHD
+https://v3.playerlatino.live/stream/m3u8/511
 #EXTINF:0, STAR+ ESPN HD
 https://v3.playerlatino.live/stream/m3u8/156
+#EXTINF:0, 509 TNT SPORTS FHD
+https://v3.playerlatino.live/stream/m3u8/509
+
 
 ---- CANALES DE PELICULAS------
 
