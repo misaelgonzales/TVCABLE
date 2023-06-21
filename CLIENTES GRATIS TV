@@ -18,6 +18,8 @@ https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmmD8Bx1LnyUCpInd_S
 #EXTINF:0, TV PERU HD - misa
 https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_1.m3u8
 
+--------------- CANALES DE DIBUJOS --------------------
+
 #EXTINF:0, Cartoon Network FHD
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 #EXTINF:0, Cartoonito FHD
@@ -30,6 +32,8 @@ https://v3.playerlatino.live/stream/m3u8/95
 https://v3.playerlatino.live/stream/m3u8/78
 #EXTINF:0, Nick Junior - misa
 https://v3.playerlatino.live/stream/m3u8/79
+
+--------------- CANALES DE NOVELAS --------------------
 
 #EXTINF:0, CORAZON HD - misa
 https://v3.playerlatino.live/stream/m3u8/166
@@ -44,7 +48,7 @@ https://v3.playerlatino.live/stream/m3u8/08
 #EXTINF:0, TOROLE.TV FHD - misa
 https://v3.playerlatino.live/stream/m3u8/369 
 
-
+--------------- CANALES DE HISTORIA --------------------
 
 #EXTINF:0, HISTORY FHD - MISA
 https://v3.playerlatino.live/stream/m3u8/642
@@ -59,7 +63,7 @@ https://v3.playerlatino.live/stream/m3u8/474
 #EXTINF:0, Nat Geo mundo HD - misa
 https://v3.playerlatino.live/stream/m3u8/77
 
-
+--------------- CANALES DE DEPORTES --------------------
 
 #EXTINF:0, GOL PERU SD
 https://v3.playerlatino.live/stream/m3u8/686
@@ -92,7 +96,12 @@ https://v3.playerlatino.live/stream/m3u8/54
 #EXTINF:0, STAR+ ESPN HD
 https://v3.playerlatino.live/stream/m3u8/156
 
+---- CANALES DE PELICULAS------
 
+#EXTINF:0, TNT HD - misa
+https://v3.playerlatino.live/stream/m3u8/650
+#EXTINF:0, Space FHD - misa
+https://v3.playerlatino.live/stream/m3u8/499
 #EXTINF:0, CINE CANAL FHD
 https://v3.playerlatino.live/stream/m3u8/479
 #EXTINF:0, MOVISTAR ACCION FHD - misa
@@ -133,10 +142,6 @@ https://v3.playerlatino.live/stream/m3u8/655
 https://v3.playerlatino.live/stream/m3u8/483
 #EXTINF:0, Discovery World HD - misa
 https://v3.playerlatino.live/stream/m3u8/187
-#EXTINF:0, TNT HD - misa
-https://v3.playerlatino.live/stream/m3u8/650
-#EXTINF:0, Space FHD - misa
-https://v3.playerlatino.live/stream/m3u8/499
 #EXTINF:0, Sony HD
 https://v3.playerlatino.live/stream/m3u8/498
 #EXTINF:0, Studio Universal SD - misa
@@ -152,7 +157,7 @@ https://v3.playerlatino.live/stream/m3u8/149
 #EXTINF:0, LIFETIME HD - MISA
 https://v3.playerlatino.live/stream/m3u8/152
 
-
+--------------- CANALES DE EXTRANJEROS --------------------
 
 #EXTINF:0, CHV HD
 https://v3.playerlatino.live/stream/m3u8/198
@@ -161,6 +166,7 @@ https://v3.playerlatino.live/stream/m3u8/765
 #EXTINF:0, MEGA HD
 http://177.93.52.98:45001/play/a06u
 
+--------------- CANALES DE MUSICA --------------------
 
 #EXTINF:0, KARIBEÑA - misa
 https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
