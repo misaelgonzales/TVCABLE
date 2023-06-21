@@ -43,6 +43,8 @@ https://v3.playerlatino.live/stream/m3u8/636
 https://v3.playerlatino.live/stream/m3u8/755 
 #EXTINF:0, TELEMUNDO FHD - MISA
 https://v3.playerlatino.live/stream/m3u8/660
+#EXTINF:0, 290  - CARAOL FHD
+https://v3.playerlatino.live/stream/m3u8/290
 #EXTINF:0, BANDAMAX FHD - misa
 https://v3.playerlatino.live/stream/m3u8/08
 #EXTINF:0, TOROLE.TV FHD - misa
