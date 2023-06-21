@@ -7,15 +7,15 @@ http://177.93.52.98:45001/play/a07m
 https://v3.playerlatino.live/stream/m3u8/780
 #EXTINF:0, ATV FHD
 https://atvperu.akamaized.net/hls/live/2100630/atv/master_480.m3u8
-#EXTINF:0, ATV+ SD - misa
+#EXTINF:0, ATV+ SD 
 https://atvmas.akamaized.net/hls/live/2101282/atvmas/level_2.m3u8
-#EXTINF:0, PANAMERICANA HD - misa
+#EXTINF:0, PANAMERICANA HD
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=897276147&_cdn_timestamp=1687317682&_cdn_token=465c831d75276d2167987236a33c21658861c05a
-#EXTINF:0, EXITOSA HD - misa
+#EXTINF:0, EXITOSA HD
 https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
-#EXTINF:0, WILLAX HD - misa
+#EXTINF:0, WILLAX HD
 https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmmD8Bx1LnyUCpInd_SEJcltReGpZkMt022tpWtMbONzs)/dm/3/x7x4dgx/s/live-1.m3u8
-#EXTINF:0, TV PERU HD - misa
+#EXTINF:0, TV PERU HD
 https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_1.m3u8
 
 --------------- CANALES DE DIBUJOS --------------------
@@ -26,43 +26,45 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 https://v3.playerlatino.live/stream/m3u8/11
 #EXTINF:0, Discovery Kids FHD
 https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
-#EXTINF:0, TOONCAST SD - MISA
+#EXTINF:0, 641 DISCOVERY KIDS FHD
+https://v3.playerlatino.live/stream/m3u8/641
+#EXTINF:0, TOONCAST SD -
 https://v3.playerlatino.live/stream/m3u8/95
-#EXTINF:0, Nick HD - misa
+#EXTINF:0, Nick HD -
 https://v3.playerlatino.live/stream/m3u8/78
-#EXTINF:0, Nick Junior - misa
+#EXTINF:0, NICK JUNIOR
 https://v3.playerlatino.live/stream/m3u8/79
 
 --------------- CANALES DE NOVELAS --------------------
 
-#EXTINF:0, CORAZON HD - misa
+#EXTINF:0, CORAZON HD
 https://v3.playerlatino.live/stream/m3u8/166
-#EXTINF:0, LAS-ESTRELLAS FHD - MISA
+#EXTINF:0, LAS-ESTRELLAS FHD
 https://v3.playerlatino.live/stream/m3u8/636
-#EXTINF:0, Pasiones FHD - MISA
+#EXTINF:0, Pasiones FHD
 https://v3.playerlatino.live/stream/m3u8/755 
-#EXTINF:0, TELEMUNDO FHD - MISA
+#EXTINF:0, TELEMUNDO FHD
 https://v3.playerlatino.live/stream/m3u8/660
-#EXTINF:0, 290  - CARAOL FHD
+#EXTINF:0, CARACOL  FHD
 https://v3.playerlatino.live/stream/m3u8/290
-#EXTINF:0, BANDAMAX FHD - misa
+#EXTINF:0, BANDAMAX FHD
 https://v3.playerlatino.live/stream/m3u8/08
-#EXTINF:0, TOROLE.TV FHD - misa
+#EXTINF:0, TOROLE.TV FHD
 https://v3.playerlatino.live/stream/m3u8/369 
 
 --------------- CANALES DE HISTORIA --------------------
 
-#EXTINF:0, HISTORY FHD - MISA
+#EXTINF:0, HISTORY FHD
 https://v3.playerlatino.live/stream/m3u8/642
-#EXTINF:0, HISTORY 2 HD - misa
+#EXTINF:0, HISTORY 2 SD
 https://v3.playerlatino.live/stream/m3u8/61
 #EXTINF:0, HISTORY 2 HD
 http://45.160.15.130:2909/play/033
-#EXTINF:0, Animal Planet FHD - MISA
+#EXTINF:0, Animal Planet FHD
 https://v3.playerlatino.live/stream/m3u8/633 
-#EXTINF:0, A&E FHD - MISA
+#EXTINF:0, A&E FHD
 https://v3.playerlatino.live/stream/m3u8/474 
-#EXTINF:0, Nat Geo mundo HD - misa
+#EXTINF:0, Nat Geo mundo HD
 https://v3.playerlatino.live/stream/m3u8/77
 
 --------------- CANALES DE DEPORTES --------------------
@@ -71,11 +73,11 @@ https://v3.playerlatino.live/stream/m3u8/77
 https://v3.playerlatino.live/stream/m3u8/686
 #EXTINF:0, GOL TV SD
 https://v3.playerlatino.live/stream/m3u8/287
-#EXTINF:0, MOVISTAR DEPORTES - misa
+#EXTINF:0, MOVISTAR DEPORTES
 https://v3.playerlatino.live/stream/m3u8/367
-#EXTINF:0, MOVISTAR DEPORTES - misa
+#EXTINF:0, MOVISTAR DEPORTES
 https://v3.playerlatino.live/stream/m3u8/366
-#EXTINF:0, MOVISTAR LIGA FHD - misa
+#EXTINF:0, MOVISTAR LIGA FHD
 https://v3.playerlatino.live/stream/m3u8/367
 #EXTINF:0, ESPN 2 HD
 http://177.93.52.98:45001/play/a05h
@@ -83,7 +85,7 @@ http://177.93.52.98:45001/play/a05h
 https://v3.playerlatino.live/stream/m3u8/485
 #EXTINF:0, ESPN 4 HD
 http://177.93.52.98:45001/play/a06h
-#EXTINF:0, ESPN 4 HD - misa
+#EXTINF:0, ESPN 4 HD
 https://v3.playerlatino.live/stream/m3u8/52
 #EXTINF:0, ESPN EXTRA HD
 https://v3.playerlatino.live/stream/m3u8/37
@@ -101,85 +103,85 @@ https://v3.playerlatino.live/stream/m3u8/509
 
 ---- CANALES DE PELICULAS------
 
-#EXTINF:0, TNT HD - misa
+#EXTINF:0, TNT HD
 https://v3.playerlatino.live/stream/m3u8/650
-#EXTINF:0, Space FHD - misa
+#EXTINF:0, Space FHD
 https://v3.playerlatino.live/stream/m3u8/499
 #EXTINF:0, CINE CANAL FHD
 https://v3.playerlatino.live/stream/m3u8/479
-#EXTINF:0, MOVISTAR ACCION FHD - misa
+#EXTINF:0, MOVISTAR ACCION FHD
 https://v3.playerlatino.live/stream/m3u8/364
-#EXTINF:0, MOVISTAR COMEDIA FHD - misa
+#EXTINF:0, MOVISTAR COMEDIA FHD
 https://v3.playerlatino.live/stream/m3u8/370
-#EXTINF:0, MOVISTAR CINE FHD - misa
+#EXTINF:0, MOVISTAR CINE FHD
 https://v3.playerlatino.live/stream/m3u8/371
 #EXTINF:0, 495 FX FHD
 https://v3.playerlatino.live/stream/m3u8/495
-#EXTINF:0, GOLDEN-HD - misa
+#EXTINF:0, GOLDEN-HD
 https://v3.playerlatino.live/stream/m3u8/57
-#EXTINF:0, GOLDEN PREMIER -HD -misa
+#EXTINF:0, GOLDEN PREMIER HD
 https://v3.playerlatino.live/stream/m3u8/60
-#EXTINF:0, AMC FHD - MISA
+#EXTINF:0, AMC FHD
 https://v3.playerlatino.live/stream/m3u8/475
-#EXTINF:0, AXN FHD - MISA
+#EXTINF:0, AXN FHD
 https://v3.playerlatino.live/stream/m3u8/476 
-#EXTINF:0, Cinemax FHD - MISA
+#EXTINF:0, Cinemax FHD
 https://v3.playerlatino.live/stream/m3u8/638
-#EXTINF:0, Comedy Central FHD - MISA
+#EXTINF:0, Comedy Central FHD
 https://v3.playerlatino.live/stream/m3u8/638
 #EXTINF:0, 489 STAR CHANNEL FHD
 https://v3.playerlatino.live/stream/m3u8/489
-#EXTINF:0, Discovery HD - misa
+#EXTINF:0, Discovery HD
 https://v3.playerlatino.live/stream/m3u8/639
-#EXTINF:0, Paramount HD - misa
+#EXTINF:0, Paramount HD
 https://v3.playerlatino.live/stream/m3u8/200
-#EXTINF:0, Unicable HD - misa
+#EXTINF:0, Unicable HD
 https://v3.playerlatino.live/stream/m3u8/98
-#EXTINF:0, UNIVERSAL HD - misa
+#EXTINF:0, UNIVERSAL HD
 https://v3.playerlatino.live/stream/m3u8/184
-#EXTINF:0, Warner Channel FHD - misa
+#EXTINF:0, Warner Channel FHD
 https://v3.playerlatino.live/stream/m3u8/503
-#EXTINF:0, HBO 1 FHD- misa
+#EXTINF:0, HBO 1 FHD
 https://v3.playerlatino.live/stream/m3u8/654
-#EXTINF:0, HBO 2 FHD - misa
+#EXTINF:0, HBO 2 FHD
 https://v3.playerlatino.live/stream/m3u8/732
-#EXTINF:0, HBO PLUS FHD- misa
+#EXTINF:0, HBO PLUS FHD
 https://v3.playerlatino.live/stream/m3u8/655
 #EXTINF:0, E! FHD
 https://v3.playerlatino.live/stream/m3u8/483
-#EXTINF:0, Discovery World HD - misa
+#EXTINF:0, Discovery World HD
 https://v3.playerlatino.live/stream/m3u8/187
 #EXTINF:0, 498 SONY CHANNEL FHD
 https://v3.playerlatino.live/stream/m3u8/498
-#EXTINF:0, Studio Universal SD - misa
+#EXTINF:0, Studio Universal SD
 https://v3.playerlatino.live/stream/m3u8/84
-#EXTINF:0, TURBO DISCOVERY FHD - MISA
+#EXTINF:0, TURBO DISCOVERY FHD
 https://v3.playerlatino.live/stream/m3u8/727
-#EXTINF:0, SYFY FHD - MISA
+#EXTINF:0, SYFY FHD
 https://v3.playerlatino.live/stream/m3u8/648
-#EXTINF:0, TA HD - MISA
+#EXTINF:0, TA HD
 https://v3.playerlatino.live/stream/m3u8/320
-#EXTINF:0, FILM&ARTS HD - MISA
+#EXTINF:0, FILM&ARTS HD
 https://v3.playerlatino.live/stream/m3u8/149
-#EXTINF:0, LIFETIME HD - MISA
+#EXTINF:0, LIFETIME HD
 https://v3.playerlatino.live/stream/m3u8/152
 
 --------------- CANALES DE EXTRANJEROS --------------------
 
 #EXTINF:0, CHV HD
 https://v3.playerlatino.live/stream/m3u8/198
-#EXTINF:0, CANAL 13 CHILE HD - misa
+#EXTINF:0, CANAL 13 CHILE HD
 https://v3.playerlatino.live/stream/m3u8/765
 #EXTINF:0, MEGA HD
 http://177.93.52.98:45001/play/a06u
 
 --------------- CANALES DE MUSICA --------------------
 
-#EXTINF:0, KARIBEÑA - misa
+#EXTINF:0, KARIBEÑA
 https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
-#EXTINF:0, Telehit HD - MISA
+#EXTINF:0, Telehit HD
 https://v3.playerlatino.live/stream/m3u8/91
-#EXTINF:0, Telehit FHD - MISA
+#EXTINF:0, Telehit FHD
 https://v3.playerlatino.live/stream/m3u8/649 
-#EXTINF:0, TOP LATINO - misa
+#EXTINF:0, TOP LATINO
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/chunklist_w2021867787.m3u8
