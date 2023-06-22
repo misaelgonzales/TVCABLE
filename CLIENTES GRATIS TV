@@ -124,6 +124,8 @@ https://v3.playerlatino.live/stream/m3u8/371
 https://v3.playerlatino.live/stream/m3u8/495
 #EXTINF:0, GOLDEN-HD
 https://v3.playerlatino.live/stream/m3u8/57
+#EXTINF:0, GOLDEN FHD
+https://v3.playerlatino.live/stream/m3u8/157
 #EXTINF:0, GOLDEN PREMIER HD
 https://v3.playerlatino.live/stream/m3u8/60
 #EXTINF:0, AMC FHD
