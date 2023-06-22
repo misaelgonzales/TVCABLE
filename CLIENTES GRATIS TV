@@ -196,3 +196,5 @@ https://v3.playerlatino.live/stream/m3u8/91
 https://v3.playerlatino.live/stream/m3u8/649 
 #EXTINF:0, TOP LATINO
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/chunklist_w2021867787.m3u8
+#EXTINF:0, MEMORIAS TV
+https://mediacp.us:8081/8002/index.m3u8?PlaylistM3UCL
