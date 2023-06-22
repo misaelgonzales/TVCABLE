@@ -10,7 +10,7 @@ https://atvperu.akamaized.net/hls/live/2100630/atv/master_480.m3u8
 #EXTINF:0, ATV+ SD 
 https://atvmas.akamaized.net/hls/live/2101282/atvmas/level_2.m3u8
 #EXTINF:0, PANAMERICANA HD
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=897276147&_cdn_timestamp=1687317682&_cdn_token=465c831d75276d2167987236a33c21658861c05a
+https://cdnh71.iblups.com/hls/ptv2.m3u8
 #EXTINF:0, EXITOSA HD
 https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
 #EXTINF:0, WILLAX HD
