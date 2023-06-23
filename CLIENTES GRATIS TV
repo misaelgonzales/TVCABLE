@@ -96,9 +96,11 @@ https://v3.playerlatino.live/stream/m3u8/52
 https://v3.playerlatino.live/stream/m3u8/37
 #EXTINF:0, ESPN HD
 https://v3.playerlatino.live/stream/m3u8/65
-#EXTINF:0, FOX Sports 2 HD
+#EXTINF:0, FOX SPORTS HD
+https://v3.playerlatino.live/stream/m3u8/402
+#EXTINF:0, FOX SPORTSs 2 HD
 https://v3.playerlatino.live/stream/m3u8/410
-#EXTINF:0, Fox Sports 3 FHD
+#EXTINF:0, Fox SPORTS 3 FHD
 https://v3.playerlatino.live/stream/m3u8/511
 #EXTINF:0, STAR+ ESPN HD
 https://v3.playerlatino.live/stream/m3u8/156
