@@ -84,6 +84,8 @@ https://v3.playerlatino.live/stream/m3u8/366
 https://v3.playerlatino.live/stream/m3u8/367
 #EXTINF:0, MOVISTAR VAMOS DEPORTE
 https://v3.playerlatino.live/stream/m3u8/940
+#EXTINF:0, ESPN HD
+https://v3.playerlatino.live/stream/m3u8/65
 #EXTINF:0, ESPN 2 HD
 http://177.93.52.98:45001/play/a05h
 #EXTINF:0, ESPN 3 HD
@@ -94,8 +96,6 @@ https://v3.playerlatino.live/stream/m3u8/493
 https://v3.playerlatino.live/stream/m3u8/52
 #EXTINF:0, ESPN EXTRA HD
 https://v3.playerlatino.live/stream/m3u8/37
-#EXTINF:0, ESPN HD
-https://v3.playerlatino.live/stream/m3u8/65
 #EXTINF:0, FOX SPORTS HD
 https://v3.playerlatino.live/stream/m3u8/402
 #EXTINF:0, FOX SPORTSs 2 HD
