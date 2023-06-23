@@ -202,3 +202,7 @@ https://v3.playerlatino.live/stream/m3u8/649
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/chunklist_w2021867787.m3u8
 #EXTINF:0, MEMORIAS TV
 https://mediacp.us:8081/8002/index.m3u8?PlaylistM3UCL
+
+------------------ PELICULAS -------------------
+#EXTINF:0, TOP ENREDADOS
+https://hfs266.serversicuro.cc/hls/dnzpedmr37g4a3gyvd2x53jrycfbhozogupxqznkzhvoxgr2ckaqeoqtkgwq/index-v1-a1.m3u8
