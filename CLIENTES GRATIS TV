@@ -88,8 +88,8 @@ https://v3.playerlatino.live/stream/m3u8/940
 http://177.93.52.98:45001/play/a05h
 #EXTINF:0, ESPN 3 HD
 https://v3.playerlatino.live/stream/m3u8/485
-#EXTINF:0, ESPN 4 HD
-http://177.93.52.98:45001/play/a06h
+#EXTINF:0, 493 ESPN 4 FHD
+https://v3.playerlatino.live/stream/m3u8/493
 #EXTINF:0, ESPN 4 HD
 https://v3.playerlatino.live/stream/m3u8/52
 #EXTINF:0, ESPN EXTRA HD
