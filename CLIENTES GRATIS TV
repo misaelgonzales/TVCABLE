@@ -5,12 +5,8 @@ https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/
 http://177.93.52.98:45001/play/a07m
 #EXTINF:0, AMERICA TV HD - OPC 2
 https://v3.playerlatino.live/stream/m3u8/780
-#EXTINF:0, AMERICA TV HD - OPC 2 d
-http://51.222.110.182:8000//play/a002
 #EXTINF:0, ATV FHD
 https://atvperu.akamaized.net/hls/live/2100630/atv/master_480.m3u8
-#EXTINF:0, ATV fhd
-http://51.222.110.182:8000//play/a006
 #EXTINF:0, PANAMERICANA HD
 https://cdnh71.iblups.com/hls/ptv2.m3u8
 #EXTINF:0, EXITOSA HD
@@ -65,8 +61,6 @@ https://v3.playerlatino.live/stream/m3u8/642
 https://v3.playerlatino.live/stream/m3u8/61
 #EXTINF:0, HISTORY 2 HD
 http://45.160.15.130:2909/play/033
-#EXTINF:0, HISTORY 2 HD -opc2d
-http://51.222.110.182:8000//play/a005
 #EXTINF:0, Animal Planet FHD
 https://v3.playerlatino.live/stream/m3u8/633 
 #EXTINF:0, A&E FHD
