@@ -207,5 +207,5 @@ https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/chunklist_w2021
 https://mediacp.us:8081/8002/index.m3u8?PlaylistM3UCL
 
 ------------------ PELICULAS -------------------
-#EXTINF:0,YA ERA HORA (2023) tvg-logo="https://www.themoviedb.org/t/p/w500/6j3f0E2RMLr7tftQFU2s8sgEGcE.jpg"group-title=PELICULAS 2023, YA ERA HORA (2023)
+#EXTINF:0,YA ERA HORA (2023) tvg-logo="https://www.themoviedb.org/t/p/w500/6j3f0E2RMLr7tftQFU2s8sgEGcE.jpg" group-title=PELICULAS 2023, YA ERA HORA (2023)
 http://gafitvapp.win:8080/movie/COMPUCIBER1002/@Compuciber002@/268410.mp4
