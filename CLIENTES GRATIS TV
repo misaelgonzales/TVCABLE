@@ -209,3 +209,6 @@ https://mediacp.us:8081/8002/index.m3u8?PlaylistM3UCL
 ------------------ PELICULAS -------------------
 #EXTINF:0,YA ERA HORA (2023) tvg-logo="https://www.themoviedb.org/t/p/w500/6j3f0E2RMLr7tftQFU2s8sgEGcE.jpg" group-title="PELICULAS 2023", YA ERA HORA (2023)
 http://gafitvapp.win:8080/movie/COMPUCIBER1002/@Compuciber002@/268410.mp4
+#EXTINF:0,avatar, el camino del agua(2023) tvg-logo="https://revistahush.com/wp-content/uploads/2023/04/Avatar-The-Way-of-Water-540x675.webp" group-title="PELICULAS 2023", avatar, el camino del agua(2023)
+http://gafitvapp.win:8080/movie/COMPUCIBER1002/@Compuciber002@/268418.mp4
+
